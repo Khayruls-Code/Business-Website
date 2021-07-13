@@ -308,7 +308,7 @@
         flex: unset;
         height: 300px;
         border-radius: 10px;
-        width: 90%;
+        width: 100%;
     }
     .container .popular-col {
         flex-basis: 90%;
