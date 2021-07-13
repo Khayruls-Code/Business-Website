@@ -439,4 +439,7 @@
         font-size: 1.2rem;
         margin-top: 0px;
     }
+    .container .col{
+        height: 220px;
+    }
 }
