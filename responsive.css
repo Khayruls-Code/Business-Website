@@ -152,7 +152,7 @@
     }
 /* ---------banner------- */
     .banner{
-        min-height: 120vh;
+        min-height: 100vh;
         padding-top: 70px;
         position: initial;
     }
@@ -372,6 +372,9 @@
         width: 95%;
         gap: 5%;
         flex-direction: column;
+    }
+    .container{
+        width: 90%;
     }
 }
 @media(max-width:550px){
